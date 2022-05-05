@@ -1,7 +1,7 @@
-👋 Hi, I’m @AidenH30 and Guilherme
+👋 Hi, I’m Guilherme
 
-I’m interested in full-stack development and
-I'm currently learning Python, JS, React.js, .NET, HTML5 and CSS3
+I’m interested in front-end development and
+I'm currently learning JS, React.js, .NET, HTML5 and CSS3
 
 📫 How to reach me: guialmeidadeoliveira@gmail.com
 
